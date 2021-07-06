@@ -1,0 +1,328 @@
+.search {
+  position: relative;
+  width: 140px;
+  height: 24px;
+  top: 20px;
+  left: 9.69px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  border: none;
+  color: #4b5563;
+}
+.Searchicon {
+  position: relative;
+  top: 20px;
+  width: 20.31px;
+  height: 20.31px;
+  height: 30px;
+  left: 0px;
+}
+.vc1 {
+  position: relative;
+}
+.navx {
+  position: relative;
+  text-align: right;
+}
+.noticon {
+  position: relative;
+  right: 64px;
+  top: 20px;
+}
+.headphicon {
+  position: relative;
+  right: 32px;
+  top: 20px;
+}
+.repoicon {
+  position: relative;
+  left: 5px;
+  top: 20px;
+}
+.bod2 {
+  position: relative;
+  right: 16px;
+  width: 102.8%;
+  bottom: 30px;
+  border: 1px solid #e5e7eb;
+}
+.dashicon {
+  position: relative;
+  height: 20px;
+  width: 20px;
+  right: 2px;
+}
+.pymicon {
+  position: relative;
+  height: 20px;
+  width: 20px;
+  right: 7px;
+}
+.balicon {
+  position: relative;
+  height: 20px;
+  width: 20px;
+  right: 10px;
+}
+.accicon {
+  position: relative;
+  height: 20px;
+  width: 20px;
+  right: 1px;
+}
+.bankicon {
+  position: relative;
+  height: 20px;
+  width: 20px;
+  right: 11px;
+}
+.repo1icon {
+  position: relative;
+  height: 20px;
+  width: 20px;
+  right: 13px;
+}
+.Dashboard {
+  position: relative;
+  left: 8px;
+}
+.Payments {
+  position: relative;
+  left: 4px;
+}
+.Balances {
+  position: relative;
+  left: 2px;
+}
+.Accounting {
+  position: relative;
+  left: 11px;
+}
+.Banking {
+  position: relative;
+  left: 1px;
+}
+.bank1 {
+  position: relative;
+  left: 20px;
+}
+.bank2 {
+  position: relative;
+  right: 5px;
+  color: #1c64f2;
+}
+.Vcard {
+  position: relative;
+  left: 7px;
+}
+.Pcard {
+  position: relative;
+  left: 11px;
+}
+.m32 {
+  position: relative;
+  text-align: right;
+}
+.edit {
+  position: relative;
+  left: 40%;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  text-align: center;
+  color: #1c64f2;
+}
+.m31 {
+  position: relative;
+  right: 7px;
+}
+.bod3 {
+  position: relative;
+  top: 50px;
+  width: 95%;
+  left: 40px;
+  border: 1px solid #e5e7eb;
+}
+.activ {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  color: #1c64f2;
+}
+.empid {
+  width: 120px;
+  height: 24px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  color: #d61f69;
+}
+.bln {
+  width: 120px;
+  height: 24px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  margin-left: 5px;
+  text-align: right;
+  color: #0e9f6e;
+}
+.pre {
+  color: #b6bdc9;
+  position: relative;
+  left: 60%;
+}
+.next {
+  position: relative;
+  left: 35%;
+  color: #b6bdc9;
+}
+.modal-title1 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  margin-left: 10px;
+  color: #252f3f;
+}
+.nv1x {
+  color: #b8b9bb;
+}
+.nv2x {
+  width: 186%;
+  color: #b8b9bb;
+}
+.nv3x {
+  position: relative;
+  right: 47%;
+  width: 143%;
+  color: #b8b9bb;
+}
+.nv4x {
+  width: 145%;
+  color: #b8b9bb;
+}
+.nv5x {
+  color: #b8b9bb;
+  position: relative;
+}
+.acnt {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  margin-left: 10px;
+  color: #252f3f;
+}
+.btn-info {
+  position: relative;
+  width: 120px;
+  height: 36px;
+  background: #1c64f2;
+  border-radius: 4px;
+}
+.closetb {
+  margin-right: 10px;
+}
+.star {
+  color: red;
+}
+.empname {
+  position: relative;
+  left: 10px;
+}
+.name {
+  position: relative;
+  left: 10px;
+  width: 95%;
+}
+.bnkname {
+  position: relative;
+  left: 10px;
+  width: 95%;
+  top: 10px;
+}
+.acntno {
+  position: relative;
+  left: 10px;
+  top: 20px;
+}
+.acnmbr {
+  position: relative;
+  left: 10px;
+  width: 95%;
+  top: 20px;
+}
+.code {
+  position: relative;
+  left: 10px;
+  top: 30px;
+}
+.ifsc1 {
+  position: relative;
+  left: 10px;
+  width: 95%;
+  top: 30px;
+}
+.cdl {
+  position: relative;
+  right: 4px;
+  top: 40px;
+}
+.crdlimit::placeholder {
+  position: relative;
+  left: 20px;
+}
+.crdlimit {
+  position: relative;
+  top: 40px;
+  right: 2px;
+}
+.month::placeholder {
+  position: relative;
+  left: 20px;
+}
+.month {
+  position: relative;
+  top: 10px;
+}
+.fr {
+  position: relative;
+  right: 5px;
+  top: 40px;
+}
+.drop {
+  position: relative;
+  left: 90%;
+  bottom: 13px;
+}
+.bal1 {
+  position: relative;
+  left: 10px;
+  top: 40px;
+}
+.xt {
+  padding-bottom: 45px;
+}
+.blntx1 {
+  position: relative;
+  left: 10px;
+  width: 95%;
+  top: 40px;
+}
+.modal-footer {
+  position: relative;
+  margin-top: 20px;
+}
